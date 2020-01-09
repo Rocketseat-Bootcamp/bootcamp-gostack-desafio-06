@@ -1,0 +1,29 @@
+dependencies: \
+  /Users/douglassantos/Desktop/workspace/rocketseat-bootcamp/react-native/modulo06/node_modules/react-native/Libraries/TypeSafety/RCTConvertHelpers.mm \
+  /Users/douglassantos/Desktop/workspace/rocketseat-bootcamp/react-native/modulo06/ios/Pods/Target\ Support\ Files/RCTTypeSafety/RCTTypeSafety-prefix.pch \
+  /Users/douglassantos/Desktop/workspace/rocketseat-bootcamp/react-native/modulo06/node_modules/react-native/Libraries/TypeSafety/RCTConvertHelpers.h \
+  /Users/douglassantos/Desktop/workspace/rocketseat-bootcamp/react-native/modulo06/ios/Pods/Headers/Public/FBLazyVector/FBLazyVector/FBLazyVector.h \
+  /Users/douglassantos/Desktop/workspace/rocketseat-bootcamp/react-native/modulo06/ios/Pods/Headers/Public/FBLazyVector/FBLazyVector/FBLazyIterator.h \
+  /Users/douglassantos/Desktop/workspace/rocketseat-bootcamp/react-native/modulo06/ios/Pods/Folly/folly/Optional.h \
+  /Users/douglassantos/Desktop/workspace/rocketseat-bootcamp/react-native/modulo06/ios/Pods/Folly/folly/Portability.h \
+  /Users/douglassantos/Desktop/workspace/rocketseat-bootcamp/react-native/modulo06/ios/Pods/Folly/folly/portability/Config.h \
+  /Users/douglassantos/Desktop/workspace/rocketseat-bootcamp/react-native/modulo06/ios/Pods/Folly/folly/CPortability.h \
+  /Users/douglassantos/Desktop/workspace/rocketseat-bootcamp/react-native/modulo06/ios/Pods/Folly/folly/Traits.h \
+  /Users/douglassantos/Desktop/workspace/rocketseat-bootcamp/react-native/modulo06/ios/Pods/Folly/folly/Utility.h \
+  /Users/douglassantos/Desktop/workspace/rocketseat-bootcamp/react-native/modulo06/ios/Pods/Folly/folly/lang/Exception.h \
+  /Users/douglassantos/Desktop/workspace/rocketseat-bootcamp/react-native/modulo06/ios/Pods/Folly/folly/CppAttributes.h \
+  /Users/douglassantos/Desktop/workspace/rocketseat-bootcamp/react-native/modulo06/ios/Pods/Headers/Public/React-Core/React/RCTConvert.h \
+  /Users/douglassantos/Desktop/workspace/rocketseat-bootcamp/react-native/modulo06/ios/Pods/Headers/Public/React-Core/React/RCTAnimationType.h \
+  /Users/douglassantos/Desktop/workspace/rocketseat-bootcamp/react-native/modulo06/ios/Pods/Headers/Public/React-Core/React/RCTBorderStyle.h \
+  /Users/douglassantos/Desktop/workspace/rocketseat-bootcamp/react-native/modulo06/ios/Pods/Headers/Public/React-Core/React/RCTDefines.h \
+  /Users/douglassantos/Desktop/workspace/rocketseat-bootcamp/react-native/modulo06/ios/Pods/Headers/Public/React-Core/React/RCTInspectorDevServerHelper.h \
+  /Users/douglassantos/Desktop/workspace/rocketseat-bootcamp/react-native/modulo06/ios/Pods/Headers/Public/React-Core/React/RCTPackagerConnection.h \
+  /Users/douglassantos/Desktop/workspace/rocketseat-bootcamp/react-native/modulo06/ios/Pods/Headers/Public/React-Core/React/RCTLog.h \
+  /Users/douglassantos/Desktop/workspace/rocketseat-bootcamp/react-native/modulo06/ios/Pods/Headers/Public/React-Core/React/RCTAssert.h \
+  /Users/douglassantos/Desktop/workspace/rocketseat-bootcamp/react-native/modulo06/ios/Pods/Headers/Public/React-Core/React/RCTUtils.h \
+  /Users/douglassantos/Desktop/workspace/rocketseat-bootcamp/react-native/modulo06/ios/Pods/Headers/Public/React-Core/React/RCTPointerEvents.h \
+  /Users/douglassantos/Desktop/workspace/rocketseat-bootcamp/react-native/modulo06/ios/Pods/Headers/Public/React-Core/React/RCTTextDecorationLineType.h \
+  /Users/douglassantos/Desktop/workspace/rocketseat-bootcamp/react-native/modulo06/ios/Pods/Headers/Public/Yoga/yoga/Yoga.h \
+  /Users/douglassantos/Desktop/workspace/rocketseat-bootcamp/react-native/modulo06/ios/Pods/Headers/Public/Yoga/yoga/YGEnums.h \
+  /Users/douglassantos/Desktop/workspace/rocketseat-bootcamp/react-native/modulo06/ios/Pods/Headers/Public/Yoga/yoga/YGMacros.h \
+  /Users/douglassantos/Desktop/workspace/rocketseat-bootcamp/react-native/modulo06/ios/Pods/Headers/Public/Yoga/yoga/YGValue.h

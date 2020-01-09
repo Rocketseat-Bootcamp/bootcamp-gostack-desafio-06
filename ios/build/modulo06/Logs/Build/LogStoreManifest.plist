@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>10</integer>
+	<key>logs</key>
+	<dict>
+		<key>1768D649-CDAD-47E4-BE73-0F1DD3CD9779</key>
+		<dict>
+			<key>className</key>
+			<string>IDECommandLineBuildLog</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>1768D649-CDAD-47E4-BE73-0F1DD3CD9779.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>modulo06 project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>modulo06</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Building workspace modulo06 with scheme modulo06 and configuration Debug</string>
+			<key>timeStartedRecording</key>
+			<real>600291152.04741895</real>
+			<key>timeStoppedRecording</key>
+			<real>600291164.42992401</real>
+			<key>title</key>
+			<string>Building workspace modulo06 with scheme modulo06 and configuration Debug</string>
+			<key>uniqueIdentifier</key>
+			<string>1768D649-CDAD-47E4-BE73-0F1DD3CD9779</string>
+		</dict>
+		<key>9E37F81A-39FD-48B9-A32D-CC79ABA2212E</key>
+		<dict>
+			<key>className</key>
+			<string>IDECommandLineBuildLog</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>9E37F81A-39FD-48B9-A32D-CC79ABA2212E.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>modulo06 project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>modulo06</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Building workspace modulo06 with scheme modulo06 and configuration Debug</string>
+			<key>timeStartedRecording</key>
+			<real>600287285.94493699</real>
+			<key>timeStoppedRecording</key>
+			<real>600287287.49748695</real>
+			<key>title</key>
+			<string>Building workspace modulo06 with scheme modulo06 and configuration Debug</string>
+			<key>uniqueIdentifier</key>
+			<string>9E37F81A-39FD-48B9-A32D-CC79ABA2212E</string>
+		</dict>
+	</dict>
+</dict>
+</plist>
